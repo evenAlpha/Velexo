@@ -1,0 +1,1 @@
+import{c as s}from"./client-B0M0j1kj.js";import{q as t}from"./chunk-KNED5TY2-DvhD41lM.js";async function n({request:o}){const e=s(),{error:r}=await e.auth.signOut();return r?(console.error(r),{success:!1,error:r.message}):t("/")}export{n as clientLoader};
