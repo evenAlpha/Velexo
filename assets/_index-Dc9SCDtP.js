@@ -1,0 +1,1 @@
+import{w as o}from"./with-props-BmnBrIYl.js";import{j as e}from"./jsx-runtime-BjG_zV1W.js";import{q as r,r as t}from"./chunk-KNED5TY2-DK4LrZ4V.js";function a(){return r("/Velexo/login")}const f=o(function(){return t.useEffect(()=>{window.location.href="/Velexo/login"},[]),e.jsx("p",{children:"Redirecting to login..."})});export{a as clientLoader,f as default};
