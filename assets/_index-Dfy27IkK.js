@@ -1,0 +1,1 @@
+import{w as o}from"./with-props-bezBRlDp.js";import{j as r}from"./jsx-runtime-BjG_zV1W.js";import{q as t,r as n}from"./chunk-KNED5TY2-DK4LrZ4V.js";function a(){return t("/login")}const f=o(function(){return n.useEffect(()=>{window.location.href="/login"},[]),r.jsx("p",{children:"Redirecting to login..."})});export{a as clientLoader,f as default};

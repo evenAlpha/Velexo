@@ -1,1 +1,0 @@
-import{w as n}from"./with-props-bezBRlDp.js";import{q as o}from"./chunk-KNED5TY2-DK4LrZ4V.js";function i(){return o("/login")}const u=n(function(){return null});export{i as clientLoader,u as default};
